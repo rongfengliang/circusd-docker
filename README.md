@@ -7,5 +7,5 @@ use pip install
 * pull docker image
 
 ```code
-docker pull dalongrong/circus:3.7-slim-stretch
+docker pull dalongrong/circusd:3.7-slim-stretch
 ```
